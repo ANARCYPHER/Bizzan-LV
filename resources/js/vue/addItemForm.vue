@@ -1,5 +1,6 @@
 <template>
-    <div>
+    <div class="addItem">
+        <input type="text" /> 
         Form
     </div>
 </template>
